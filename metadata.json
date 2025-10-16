@@ -1,0 +1,7 @@
+{
+  "name": "Audio Noise Cleaner AI",
+  "description": "Upload an audio file to transcribe its speech and re-synthesize it with a clean, studio-quality voice using AI, effectively removing background noise.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
